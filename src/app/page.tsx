@@ -1,3 +1,4 @@
+declare module '*.css';
 import Hero from "../components/Hero"
 import styles from "../../styles/globals.css"
 import Slider from "@/components/Slider"
