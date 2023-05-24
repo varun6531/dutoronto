@@ -1,0 +1,21 @@
+#big:hover{
+    background-color: #ffcd5c;
+    color: #121213;
+    border-radius: 20px;
+    padding: 7px 20px;
+}
+
+#big {
+    padding:  7px 20px;
+}
+
+#bottom:hover{
+    background-color: #0062A2;
+    color: white;
+    border-radius: 20px;
+    padding: 7px 20px;
+}
+
+#bottom {
+    padding:  7px 20px;
+}
